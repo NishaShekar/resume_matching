@@ -1,4 +1,4 @@
-# resume_matching# 📄 Resume Matcher App using Gemini API
+📄 Resume Matcher App using Gemini API
 
 An AI-powered **Resume Matcher Application** that intelligently compares a candidate’s resume with a job description and returns a **match score, skill alignment, gaps, and improvement suggestions** using **:contentReference[oaicite:0]{index=0}**.
 
